@@ -1,0 +1,32 @@
+
+
+            
+            
+
+.jumbotron-hero {
+    height: 500px;
+    background-image: url(images/surf3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-body1{
+    background-image: url(images/surf2.jpg);
+    border-radius: 8px;
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.card-body2{
+    background-image: url(images/surf1.jpg);
+    border-radius: 8px;
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
